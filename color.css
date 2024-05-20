@@ -1,0 +1,19 @@
+ol{
+    color: rgb(30, 210, 30);
+}
+
+.myclass{
+    color: red;
+}
+
+#myid{
+    color: darkolivegreen;
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+div{
+    color: blue;
+    background-color: yellow;
+    border: 1px solid black;
+}
